@@ -1,0 +1,25 @@
+{
+  "name": "@scaffoldme-cli/scaffoldme-core",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Scaffoldme Team <traore_m@etna-alternance.net>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/core.js",
+  "typings": "lib/core.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "1bc54ec84eea343b163447fa33f479223fe1e7ad"
+}
